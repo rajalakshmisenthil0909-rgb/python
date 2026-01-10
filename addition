@@ -3,3 +3,11 @@ a=10
 b=4
 c=a+b
 print("Addition of 2 numbers: ", c)
+
+
+# Addition of 3 numbers:
+number1=100
+number2=200
+number3=300
+print("Addition of 3 numbers: ", number1+number2+number3)
+
