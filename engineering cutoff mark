@@ -1,0 +1,5 @@
+phy=int(input("enter a physics mark:"))
+che=int(input("enter a chemistry mark:"))
+mat=int(input("enter a maths mark:"))
+cutoff=mat+phy/2+che/2
+print("engineering cutoff mark=",cutoff)
